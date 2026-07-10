@@ -4,7 +4,7 @@ A modern, premium, and minimalist developer portfolio for **Ravindu Laksara**, a
 
 ## 🚀 Live Demo
 
-*(Add your deployment link here, e.g., Vercel or Netlify link)*
+*(https://ravindulaksara.github.io/)*
 
 ## 🛠️ Tech Stack
 
